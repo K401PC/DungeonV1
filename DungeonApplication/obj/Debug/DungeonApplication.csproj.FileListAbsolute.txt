@@ -8,3 +8,6 @@ C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\Dungeo
 C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungonLibrary.pdb
 C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.dll
 C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\Centriq Training\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\Centriq Training\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\Centriq Training\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.pdb
